@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/3666f545-b4be-4ef0-85a0-2cb657cc92a9)# Excel-RMS-Sales-Analysis
+# Excel-RMS-Sales-Analysis
 
 This project analyses customer orders for RMS to provide key insights into sales performance, customer order behaviour, and operational efficiency. The goal is to enhance decision-making by examining trends in product profitability, order fulfillment times, and customer purchasing frequency.
 ---
