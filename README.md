@@ -125,6 +125,7 @@ This analysis highlights Corporate and Home Office segments, along with certain 
 ![Screenshot 2024-11-12 at 22 03 27](https://github.com/user-attachments/assets/f43bd94f-dbc0-4474-8b39-0dba1ed3c97d)
 
 To identify the most valuable customers, I conducted an RFM (Recency, Frequency, Monetary) analysis. I focused on customers with purchases in 2012 for Recency, those with 15–20 purchases for Frequency, and the highest spenders for Monetary value. This analysis revealed the top 10 high-value customers. Using INDEX MATCH, I determined these customers' primary purchases, allowing for a detailed subcategory breakdown. The high-value customers mainly focus on Office Supplies and Furniture, particularly "Paper," "Binders and Binder Accessories," "Tables," and "Office Furnishings." This concentration suggests an opportunity for targeted marketing of office essentials to increase retention and drive sales. While less prominent, interest in Technology items like "Computer Peripherals" and "Telephones and Communication" highlights a potential niche market.
+
 ![Screenshot 2024-11-14 at 21 14 35](https://github.com/user-attachments/assets/d60182c3-7a6c-424b-b8e9-55b156c5b765)
 
 
