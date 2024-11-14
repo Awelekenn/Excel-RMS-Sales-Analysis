@@ -1,4 +1,4 @@
-# Excel-RMS-Sales-Analysis
+![image](https://github.com/user-attachments/assets/3666f545-b4be-4ef0-85a0-2cb657cc92a9)# Excel-RMS-Sales-Analysis
 
 This project analyses customer orders for RMS to provide key insights into sales performance, customer order behaviour, and operational efficiency. The goal is to enhance decision-making by examining trends in product profitability, order fulfillment times, and customer purchasing frequency.
 ---
@@ -124,6 +124,9 @@ This analysis highlights Corporate and Home Office segments, along with certain 
 
 ![Screenshot 2024-11-12 at 22 03 27](https://github.com/user-attachments/assets/f43bd94f-dbc0-4474-8b39-0dba1ed3c97d)
 
+To identify the most valuable customers, I conducted an RFM (Recency, Frequency, Monetary) analysis. I focused on customers with purchases in 2012 for Recency, those with 15–20 purchases for Frequency, and the highest spenders for Monetary value. This analysis revealed the top 10 high-value customers. Using INDEX MATCH, I determined these customers' primary purchases, allowing for a detailed subcategory breakdown. The high-value customers mainly focus on Office Supplies and Furniture, particularly "Paper," "Binders and Binder Accessories," "Tables," and "Office Furnishings." This concentration suggests an opportunity for targeted marketing of office essentials to increase retention and drive sales. While less prominent, interest in Technology items like "Computer Peripherals" and "Telephones and Communication" highlights a potential niche market.
+![Screenshot 2024-11-14 at 21 14 35](https://github.com/user-attachments/assets/d60182c3-7a6c-424b-b8e9-55b156c5b765)
+
 
 ### **Key Findings**
 
@@ -131,3 +134,4 @@ This analysis highlights Corporate and Home Office segments, along with certain 
 - All the products in the top 5 most ordered products are also in the top 10 most returned products which would indicate that there’s a quality issue and this needs to be addressed by the company
 - 'Critical' priority orders have an average fulfillment time of 2 days compared to 'high' and 'medium' priority orders at just 1 day, indicating a misalignment in prioritising important orders. The company needs to implement a system ensuring that critical orders receive top priority and are fulfilled first, while medium priority orders can take up to 2 days.
 - About 75% of orders are shipped using regular air, which is neither the fastest nor the cheapest shipping mode. The company spends the most on delivery trucks—the most economical but slowest option—accounting for 12% of orders shipped. This indicates the company is managing costs well. However, there's concern that critical and high-priority orders rarely use express air. The company spends approximately $8,000 on express air compared to $50,000 on other shipping modes. Charts show roughly 1,600–1,700 orders for each shipping mode, suggesting the company should increase express air usage to ensure timely delivery of priority orders. This current approach could negatively impact customer retention, prompting a need to review the shipping structure.
+- 
